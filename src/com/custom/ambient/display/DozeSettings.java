@@ -79,6 +79,7 @@ public class DozeSettings extends PreferenceActivity implements PreferenceFragme
         private SwitchPreference mHandwavePreference;
         private SwitchPreference mPocketPreference;
         private SystemSettingSwitchPreference mDoubleTapPreference;
+        private SystemSettingSwitchPreference mDozeOnChargePreference;
         private Preference mBrightnessLevels;
 
         @Override
@@ -94,6 +95,9 @@ public class DozeSettings extends PreferenceActivity implements PreferenceFragme
 
             mAoDPreference =
                 (SwitchPreference) findPreference(Utils.AOD_KEY);
+
+            mDozeOnChargePreference =
+                (SystemSettingSwitchPreference) findPreference(Utils.AOD_CHARGE_KEY);
 
             mDoubleTapCategory =
                 (PreferenceCategory) findPreference(KEY_CATEGORY_DOUBLE_TAP);
@@ -111,6 +115,7 @@ public class DozeSettings extends PreferenceActivity implements PreferenceFragme
                 mAoDPreference.setOnPreferenceChangeListener(this);
             } else {
                 getPreferenceScreen().removePreference(mAoDPreference);
+                getPreferenceScreen().removePreference(mDozeOnChargePreference);
             }
 
             mAmbientDisplayPreference =
@@ -201,6 +206,7 @@ public class DozeSettings extends PreferenceActivity implements PreferenceFragme
             mHandwavePreference.setEnabled(!aodEnabled);
             mPocketPreference.setEnabled(!aodEnabled);
             mDoubleTapPreference.setEnabled(!aodEnabled);
+            mDozeOnChargePreference.setEnabled(!aodEnabled);
         }
 
         @Override
