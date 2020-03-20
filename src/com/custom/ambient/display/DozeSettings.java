@@ -23,10 +23,14 @@ import android.os.Bundle;
 import android.preference.PreferenceActivity;
 import android.provider.Settings;
 import androidx.preference.PreferenceCategory;
-import androidx.preference.Preference;
-import androidx.preference.SwitchPreference;
-import androidx.preference.PreferenceFragment;
 import android.view.MenuItem;
+
+import androidx.preference.Preference;
+import androidx.preference.PreferenceFragment;
+
+import com.octavi.support.preferences.SwitchPreference;
+import com.octavi.support.preferences.SystemSettingSeekBarPreference;
+import com.octavi.support.preferences.SystemSettingSwitchPreference;
 
 public class DozeSettings extends PreferenceActivity implements PreferenceFragment.OnPreferenceStartFragmentCallback {
 

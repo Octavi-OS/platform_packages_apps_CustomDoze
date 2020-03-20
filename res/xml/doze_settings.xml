@@ -31,13 +31,13 @@
         android:key="doze_trigger_key"
         android:title="@string/doze_trigger_title" >
 
-        <SwitchPreference
+        <com.octavi.support.preferences.SwitchPreference
             android:key="always_on_ambient"
             android:defaultValue="false"
             android:title="@string/aod_setting_title"
             android:summary="@string/aod_setting_summary" />
 
-        <SwitchPreference
+        <com.octavi.support.preferences.SwitchPreference
             android:key="ambient_display"
             android:defaultValue="true"
             android:title="@string/ambient_display_notifications"
@@ -59,7 +59,7 @@
         android:key="tilt_sensor"
         android:title="@string/tilt_sensor_title" >
 
-        <SwitchPreference
+        <com.octavi.support.preferences.SwitchPreference
             android:key="pick_up"
             android:defaultValue="false"
             android:title="@string/pick_up_title"
@@ -70,13 +70,13 @@
         android:key="proximity_sensor"
         android:title="@string/proximity_sensor_title" >
 
-        <SwitchPreference
+        <com.octavi.support.preferences.SwitchPreference
             android:key="gesture_hand_wave"
             android:defaultValue="false"
             android:title="@string/hand_wave_gesture_title"
             android:summary="@string/hand_wave_gesture_summary" />
 
-        <SwitchPreference
+        <com.octavi.support.preferences.SwitchPreference
             android:key="gesture_pocket"
             android:defaultValue="false"
             android:title="@string/pocket_gesture_title"
