@@ -39,6 +39,8 @@ public class TiltSensor implements SensorEventListener {
 
     private static final int SENSOR_WAKELOCK_DURATION = 200;
     private static final int MIN_PULSE_INTERVAL_MS = 2500;
+    private static final int MIN_WAKEUP_INTERVAL_MS = 1000;
+    private static final int WAKELOCK_TIMEOUT_MS = 300;
 
     private PowerManager mPowerManager;
     private SensorManager mSensorManager;
@@ -80,6 +82,8 @@ public class TiltSensor implements SensorEventListener {
 
     @Override
     public void onSensorChanged(SensorEvent event) {
+        boolean isRaiseToWake = Utils.isRaiseToWakeEnabled(mContext);
+
         if (DEBUG) Log.d(TAG, "Got sensor event: " + event.values[0]);
 
         long delta = SystemClock.elapsedRealtime() - mEntryTimestamp;
@@ -91,11 +95,23 @@ public class TiltSensor implements SensorEventListener {
 
         if (mSensor == Utils.getSensor(mSensorManager, "qti.sensor.amd")) {
             if (event.values[0] == 2) {
-                Utils.launchDozePulse(mContext);
+                if (isRaiseToWake) {
+                    mSensorWakeLock.acquire(WAKELOCK_TIMEOUT_MS);
+                    mPowerManager.wakeUp(SystemClock.uptimeMillis(),
+                            PowerManager.WAKE_REASON_GESTURE, TAG);
+                } else {
+                    Utils.launchDozePulse(mContext);
+                }
             }
         } else {
             if (event.values[0] == 1) {
-                Utils.launchDozePulse(mContext);
+                if (isRaiseToWake) {
+                    mSensorWakeLock.acquire(WAKELOCK_TIMEOUT_MS);
+                    mPowerManager.wakeUp(SystemClock.uptimeMillis(),
+                            PowerManager.WAKE_REASON_GESTURE, TAG);
+                } else {
+                    Utils.launchDozePulse(mContext);
+                }
             }
         }
     }

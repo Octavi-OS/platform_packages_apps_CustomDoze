@@ -25,6 +25,8 @@
     <string name="tilt_sensor_title">Tilt sensor</string>
     <string name="pick_up_title">Lift to check phone</string>
     <string name="pick_up_summary">Pulse notifications when device is picked up</string>
+    <string name="wake_gesture_title">Raise to wake</string>
+    <string name="wake_gesture_summary">Pick up your phone to wake up the device instead of pulsing notifications</string>
 
     <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Proximity sensor</string>
