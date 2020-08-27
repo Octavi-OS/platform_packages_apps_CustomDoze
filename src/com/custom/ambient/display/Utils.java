@@ -39,6 +39,7 @@ public final class Utils {
     protected static final String AOD_CHARGE_KEY = "doze_on_charge";
     protected static final String AMBIENT_DISPLAY_KEY = "ambient_display";
     protected static final String PICK_UP_KEY = "pick_up";
+    protected static final String PROXIMITY_SCREEN_WAKE_KEY = "proximity_screen_wake";
     protected static final String GESTURE_RAISE_TO_WAKE_KEY = "gesture_raise_to_wake";
     protected static final String GESTURE_HAND_WAVE_KEY = "gesture_hand_wave";
     protected static final String GESTURE_POCKET_KEY = "gesture_pocket";
@@ -105,6 +106,11 @@ public final class Utils {
             com.android.internal.R.bool.config_supportDoubleTapWake);
     }
 
+    protected static boolean isProximityScreenWakeEnabled(Context context) {
+        return Settings.System.getInt(context.getContentResolver(),
+                Settings.System.PROXIMITY_SCREEN_WAKE, 0) != 0;
+    }
+
     protected static boolean isRaiseToWakeEnabled(Context context) {
         return Settings.System.getInt(context.getContentResolver(),
                 Settings.System.CUSTOM_AMBIENT_RAISE_GESTURE, 0) != 0;
@@ -156,6 +162,13 @@ public final class Utils {
     protected static boolean enablePocketMode(boolean enable, Context context) {
         boolean enabled = Settings.System.putInt(context.getContentResolver(),
                 Settings.System.CUSTOM_AMBIENT_POCKETMODE_GESTURE, enable ? 1 : 0);
+        manageService(context);
+        return enabled;
+    }
+
+    protected static boolean enableProximityScreenWake(boolean enable, Context context) {
+        boolean enabled = Settings.System.putInt(context.getContentResolver(),
+                Settings.System.PROXIMITY_SCREEN_WAKE, enable ? 1 : 0);
         manageService(context);
         return enabled;
     }
