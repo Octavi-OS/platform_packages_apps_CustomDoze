@@ -12,26 +12,26 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_title">Ambient Display</string>
-    <string name="doze_trigger_title">When to show</string>
-    <string name="doze_elements_title">What to show</string>
-    <string name="ambient_display_notifications">New notifications</string>
-    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
+    <string name="ambient_display_title">Màn hình hiển thị xung quanh</string>
+    <string name="doze_trigger_title">Khi nào nên hiển thị</string>
+    <string name="doze_elements_title">Nội dung hiển thị</string>
+    <string name="ambient_display_notifications">Thông báo mới</string>
+    <string name="ambient_display_summary">Sáng màn hình khi nhận thông báo</string>
     <!-- Tilt sensor -->
-    <string name="tilt_sensor_title">Tilt sensor</string>
-    <string name="pick_up_title">Lift to check phone</string>
-    <string name="pick_up_summary">Pulse notifications when device is picked up</string>
-    <string name="wake_gesture_title">Raise to wake</string>
-    <string name="wake_gesture_summary">Pick up your phone to wake up the device instead of pulsing notifications</string>
-    <string name="smart_wake_title">Smart Raise to wake</string>
-    <string name="smart_wake_summary">Pulse notifications on slight motion of the device and wake when picked up</string>
-    <string name="smart_wake_category_title">Tilt Sensor +</string>
+    <string name="tilt_sensor_title">Cảm biến nghiêng</string>
+    <string name="pick_up_title">Nhấc máy để kiểm tra xem điện thoại</string>
+    <string name="pick_up_summary">Rung thông báo khi thiết bị được nhấc lên</string>
+    <string name="wake_gesture_title">Nâng cao để đánh thức</string>
+    <string name="wake_gesture_summary">Nhấc điện thoại của bạn để đánh thức thiết bị thay vì thông báo xung</string>
+    <string name="smart_wake_title">Nâng cao thông minh để đánh thức</string>
+    <string name="smart_wake_summary">Thông báo xung về chuyển động nhẹ của thiết bị và đánh thức khi nhấc máy lên</string>
+    <string name="smart_wake_category_title">Cảm biến nghiêng +</string>
     <!-- Proximity sensor -->
-    <string name="proximity_sensor_title">Proximity sensor</string>
-    <string name="hand_wave_gesture_title">Hand wave</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
+    <string name="proximity_sensor_title">Cảm biến tiệm cận</string>
+    <string name="hand_wave_gesture_title">Vẫy tay</string>
+    <string name="hand_wave_gesture_summary">Kích hoạt thông báo lúc vẫy tay</string>
     <string name="pocket_gesture_title">Pocket</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
+    <string name="pocket_gesture_summary">Kích hoạt thông báo khi lấy ra khỏi túi</string>
     <string name="proximity_screen_wake_title">Wake Screen with Hand Wave or Pocket Gesture</string>
     <string name="proximity_screen_wake_summary">Use Hand Wave or Pocket Gesture to wake up the device instead of pulsing notifications</string>
     <string name="aod_setting_title">Always on</string>
