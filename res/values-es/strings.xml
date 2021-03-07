@@ -12,13 +12,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_title">Ambient Display</string>
-    <string name="doze_trigger_title">When to show</string>
-    <string name="doze_elements_title">What to show</string>
-    <string name="ambient_display_notifications">New notifications</string>
-    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
+    <string name="ambient_display_title">Pantalla ambiente</string>
+    <string name="doze_trigger_title">Cuándo debe mostrarse</string>
+    <string name="doze_elements_title">Qué debe mostrar</string>
+    <string name="ambient_display_notifications">Nuevas notificaciones</string>
+    <string name="ambient_display_summary">Activar pantalla cuando recibe notificaciones</string>
     <!-- Tilt sensor -->
-    <string name="tilt_sensor_title">Tilt sensor</string>
+    <string name="tilt_sensor_title">Sensor de inclinación</string>
     <string name="pick_up_title">Lift to check phone</string>
     <string name="pick_up_summary">Pulse notifications when device is picked up</string>
     <string name="wake_gesture_title">Raise to wake</string>
