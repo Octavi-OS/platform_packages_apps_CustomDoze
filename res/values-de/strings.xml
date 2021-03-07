@@ -13,28 +13,28 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="ambient_display_title">Inaktivitätsdisplay</string>
-    <string name="doze_trigger_title">When to show</string>
-    <string name="doze_elements_title">What to show</string>
-    <string name="ambient_display_notifications">New notifications</string>
-    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
+    <string name="doze_trigger_title">Wann zeigen</string>
+    <string name="doze_elements_title">Was wird angezeigt?</string>
+    <string name="ambient_display_notifications">Neue Benachrichtigungen</string>
+    <string name="ambient_display_summary">Beim Eingang von Benachrichtigungen Bildschirm aktivieren</string>
     <!-- Tilt sensor -->
-    <string name="tilt_sensor_title">Tilt sensor</string>
-    <string name="pick_up_title">Lift to check phone</string>
-    <string name="pick_up_summary">Pulse notifications when device is picked up</string>
-    <string name="wake_gesture_title">Raise to wake</string>
-    <string name="wake_gesture_summary">Pick up your phone to wake up the device instead of pulsing notifications</string>
+    <string name="tilt_sensor_title">Neigungssensor</string>
+    <string name="pick_up_title">Für Benachrichtigungen anheben</string>
+    <string name="pick_up_summary">Impulsbenachrichtigungen, wenn das Gerät angehoben wird</string>
+    <string name="wake_gesture_title">Zum Aufwachen anheben</string>
+    <string name="wake_gesture_summary">Hebe dein Telefon auf, um das Gerät aufzuwecken, anstatt pulsierende Benachrichtigungen</string>
     <string name="smart_wake_title">Smart Raise to wake</string>
-    <string name="smart_wake_summary">Pulse notifications on slight motion of the device and wake when picked up</string>
-    <string name="smart_wake_category_title">Tilt Sensor +</string>
+    <string name="smart_wake_summary">Pulse Benachrichtigungen bei leichter Bewegung des Geräts und anschalten beim Aufheben</string>
+    <string name="smart_wake_category_title">Neigungssensor +</string>
     <!-- Proximity sensor -->
-    <string name="proximity_sensor_title">Proximity sensor</string>
-    <string name="hand_wave_gesture_title">Hand wave</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
-    <string name="pocket_gesture_title">Pocket</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
-    <string name="proximity_screen_wake_title">Wake Screen with Hand Wave or Pocket Gesture</string>
+    <string name="proximity_sensor_title">Näherungssensor</string>
+    <string name="hand_wave_gesture_title">Handgeste</string>
+    <string name="hand_wave_gesture_summary">Benachrichtigungen kurz einblenden, wenn gewunken wird</string>
+    <string name="pocket_gesture_title">Tasche</string>
+    <string name="pocket_gesture_summary">Benachrichtigungen einblenden, wenn das Gerät aus der Tasche geholt wird</string>
+    <string name="proximity_screen_wake_title">Bildschirm mit Handwink oder Taschen-Geste aufwecken</string>
     <string name="proximity_screen_wake_summary">Use Hand Wave or Pocket Gesture to wake up the device instead of pulsing notifications</string>
-    <string name="aod_setting_title">Always on</string>
+    <string name="aod_setting_title">Always-on</string>
     <string name="aod_setting_summary">Show time, notification icons and other info. Increased battery usage.</string>
     <string name="doze_brightness_title">Ambient brightness</string>
     <string name="doze_brightness_summary">Configure Ambient brightness values</string>
