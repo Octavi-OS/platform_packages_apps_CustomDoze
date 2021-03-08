@@ -46,11 +46,11 @@
     <string name="footer_info">If Always on is enabled, brightness gets recalculated to follow hardware specifications, so don\'t consider above values as absolute ones.</string>
     <string name="double_tap_title">輕觸兩下</string>
     <string name="doze_double_tap_title">輕觸兩下手機即可查看</string>
-    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+    <string name="doze_double_tap_summary">鎖屏時雙擊查看顯示通知</string>
     <!-- Ambient display battery percentage -->
     <string name="ambient_battery_percent_title">電池電量</string>
     <string name="ambient_battery_percent_summary">休眠時，在螢幕底部顯示電池電量</string>
     <!-- Doze on charge -->
     <string name="doze_on_charge_title">永遠開啟（充電時）</string>
-    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
+    <string name="doze_on_charge_summary">鎖屏充電時始終顯示</string>
 </resources>
