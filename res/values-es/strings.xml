@@ -19,18 +19,18 @@
     <string name="ambient_display_summary">Activar pantalla cuando recibe notificaciones</string>
     <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Sensor de inclinación</string>
-    <string name="pick_up_title">Lift to check phone</string>
+    <string name="pick_up_title">Levantar para revisar el dispositivo</string>
     <string name="pick_up_summary">Pulse notifications when device is picked up</string>
-    <string name="wake_gesture_title">Raise to wake</string>
+    <string name="wake_gesture_title">Elevar para activar</string>
     <string name="wake_gesture_summary">Pick up your phone to wake up the device instead of pulsing notifications</string>
-    <string name="smart_wake_title">Smart Raise to wake</string>
+    <string name="smart_wake_title">Elevación Inteligente para activar</string>
     <string name="smart_wake_summary">Pulse notifications on slight motion of the device and wake when picked up</string>
     <string name="smart_wake_category_title">Tilt Sensor +</string>
     <!-- Proximity sensor -->
     <string name="proximity_sensor_title">Proximity sensor</string>
-    <string name="hand_wave_gesture_title">Hand wave</string>
+    <string name="hand_wave_gesture_title">Pase de mano</string>
     <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
-    <string name="pocket_gesture_title">Pocket</string>
+    <string name="pocket_gesture_title">Bolsillo</string>
     <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
     <string name="proximity_screen_wake_title">Wake Screen with Hand Wave or Pocket Gesture</string>
     <string name="proximity_screen_wake_summary">Use Hand Wave or Pocket Gesture to wake up the device instead of pulsing notifications</string>
