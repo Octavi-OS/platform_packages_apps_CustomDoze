@@ -20,35 +20,35 @@
     <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Sensor de inclinación</string>
     <string name="pick_up_title">Levantar para revisar el dispositivo</string>
-    <string name="pick_up_summary">Pulse notifications when device is picked up</string>
+    <string name="pick_up_summary">Pulso de notificaciones al levantar el dispositivo</string>
     <string name="wake_gesture_title">Elevar para activar</string>
     <string name="wake_gesture_summary">Pick up your phone to wake up the device instead of pulsing notifications</string>
     <string name="smart_wake_title">Elevación Inteligente para activar</string>
-    <string name="smart_wake_summary">Pulse notifications on slight motion of the device and wake when picked up</string>
+    <string name="smart_wake_summary">Mostrar pulso de notificaciones cuando se mueve el dispositivo y despertar cuando sea recogido</string>
     <string name="smart_wake_category_title">Tilt Sensor +</string>
     <!-- Proximity sensor -->
-    <string name="proximity_sensor_title">Proximity sensor</string>
+    <string name="proximity_sensor_title">Sensor de proximidad</string>
     <string name="hand_wave_gesture_title">Pase de mano</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
+    <string name="hand_wave_gesture_summary">Pulso de notificaciones al pasar la mano por encima del dispositivo</string>
     <string name="pocket_gesture_title">Bolsillo</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
+    <string name="pocket_gesture_summary">Pulso de notificaciones al sacar del bolsillo</string>
     <string name="proximity_screen_wake_title">Wake Screen with Hand Wave or Pocket Gesture</string>
     <string name="proximity_screen_wake_summary">Use Hand Wave or Pocket Gesture to wake up the device instead of pulsing notifications</string>
     <string name="aod_setting_title">Always on</string>
     <string name="aod_setting_summary">Show time, notification icons and other info. Increased battery usage.</string>
-    <string name="doze_brightness_title">Ambient brightness</string>
+    <string name="doze_brightness_title">Brillo ambiente</string>
     <string name="doze_brightness_summary">Configure Ambient brightness values</string>
-    <string name="night_brightness_value">Night brightness</string>
+    <string name="night_brightness_value">Brillo nocturno</string>
     <string name="low_brightness_value">Low light brightness</string>
     <string name="high_brightness_value">Medium light brightness</string>
     <string name="sun_brightness_value">Sun light brightness</string>
-    <string name="reset_hidden_apps">Reset all</string>
+    <string name="reset_hidden_apps">Restablecer todo</string>
     <string name="footer_info">If Always on is enabled, brightness gets recalculated to follow hardware specifications, so don\'t consider above values as absolute ones.</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="doze_double_tap_title">Double tap to check phone</string>
-    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+    <string name="double_tap_title">Doble toque</string>
+    <string name="doze_double_tap_title">Doble toque para revisar el teléfono</string>
+    <string name="doze_double_tap_summary">Pulso de notificaciones con un doble toque</string>
     <!-- Ambient display battery percentage -->
-    <string name="ambient_battery_percent_title">Battery level</string>
+    <string name="ambient_battery_percent_title">Nivel de batería</string>
     <string name="ambient_battery_percent_summary">Show battery percent on the bottom while dozing</string>
     <!-- Doze on charge -->
     <string name="doze_on_charge_title">Always on when charging</string>
