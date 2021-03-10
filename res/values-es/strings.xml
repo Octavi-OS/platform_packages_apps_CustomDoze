@@ -34,7 +34,7 @@
     <string name="pocket_gesture_summary">Pulso de notificaciones al sacar del bolsillo</string>
     <string name="proximity_screen_wake_title">Wake Screen with Hand Wave or Pocket Gesture</string>
     <string name="proximity_screen_wake_summary">Use Hand Wave or Pocket Gesture to wake up the device instead of pulsing notifications</string>
-    <string name="aod_setting_title">Always on</string>
+    <string name="aod_setting_title">Siempre encendido</string>
     <string name="aod_setting_summary">Show time, notification icons and other info. Increased battery usage.</string>
     <string name="doze_brightness_title">Brillo ambiente</string>
     <string name="doze_brightness_summary">Configure Ambient brightness values</string>
