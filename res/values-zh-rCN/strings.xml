@@ -12,45 +12,45 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_title">环境显示</string>
-    <string name="doze_trigger_title">显示时机</string>
-    <string name="doze_elements_title">显示内容</string>
-    <string name="ambient_display_notifications">新通知</string>
-    <string name="ambient_display_summary">收到通知时唤醒屏幕</string>
+    <string name="ambient_display_title">Ambient Display</string>
+    <string name="doze_trigger_title">When to show</string>
+    <string name="doze_elements_title">What to show</string>
+    <string name="ambient_display_notifications">New notifications</string>
+    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
     <!-- Tilt sensor -->
-    <string name="tilt_sensor_title">倾斜传感器</string>
-    <string name="pick_up_title">拿起手机即显示</string>
-    <string name="pick_up_summary">拿起设备时闪烁呼吸灯</string>
-    <string name="wake_gesture_title">抬起唤醒</string>
-    <string name="wake_gesture_summary">拿起您的手机唤醒装置取代通知唤醒</string>
-    <string name="smart_wake_title">智能抬起唤醒</string>
-    <string name="smart_wake_summary">在设备轻微移动时显示通知并唤醒设备</string>
-    <string name="smart_wake_category_title">倾斜传感器 +</string>
+    <string name="tilt_sensor_title">Tilt sensor</string>
+    <string name="pick_up_title">Lift to check phone</string>
+    <string name="pick_up_summary">Pulse notifications when device is picked up</string>
+    <string name="wake_gesture_title">Raise to wake</string>
+    <string name="wake_gesture_summary">Pick up your phone to wake up the device instead of pulsing notifications</string>
+    <string name="smart_wake_title">Smart Raise to wake</string>
+    <string name="smart_wake_summary">Pulse notifications on slight motion of the device and wake when picked up</string>
+    <string name="smart_wake_category_title">Tilt Sensor +</string>
     <!-- Proximity sensor -->
-    <string name="proximity_sensor_title">距离传感器</string>
-    <string name="hand_wave_gesture_title">挥手</string>
-    <string name="hand_wave_gesture_summary">挥手时显示通知</string>
-    <string name="pocket_gesture_title">口袋</string>
-    <string name="pocket_gesture_summary">从口袋中拿出时闪烁通知灯</string>
-    <string name="proximity_screen_wake_title">用挥手或口袋手势唤醒屏幕</string>
-    <string name="proximity_screen_wake_summary">使用挥手或口袋手势唤醒设备，而非发出通知</string>
-    <string name="aod_setting_title">始终开启</string>
-    <string name="aod_setting_summary">显示时间、通知图标和其他信息，这会增加耗电量</string>
-    <string name="doze_brightness_title">环境亮度</string>
-    <string name="doze_brightness_summary">配置环境亮度值</string>
-    <string name="night_brightness_value">夜间亮度</string>
-    <string name="low_brightness_value">低亮度</string>
-    <string name="high_brightness_value">中等亮度</string>
-    <string name="sun_brightness_value">太阳光亮度</string>
-    <string name="reset_hidden_apps">重置所有</string>
-    <string name="footer_info">如果开启“始终开启”，亮度将根据硬件规格重新计算，所以不要将上面的值看作绝对值。</string>
-    <string name="double_tap_title">双击</string>
-    <string name="doze_double_tap_title">双击即可查看手机</string>
-    <string name="doze_double_tap_summary">双击查看息屏显示通知</string>
+    <string name="proximity_sensor_title">Proximity sensor</string>
+    <string name="hand_wave_gesture_title">Hand wave</string>
+    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
+    <string name="pocket_gesture_title">Pocket</string>
+    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
+    <string name="proximity_screen_wake_title">Wake Screen with Hand Wave or Pocket Gesture</string>
+    <string name="proximity_screen_wake_summary">Use Hand Wave or Pocket Gesture to wake up the device instead of pulsing notifications</string>
+    <string name="aod_setting_title">Always on</string>
+    <string name="aod_setting_summary">Show time, notification icons and other info. Increased battery usage.</string>
+    <string name="doze_brightness_title">Ambient brightness</string>
+    <string name="doze_brightness_summary">Configure Ambient brightness values</string>
+    <string name="night_brightness_value">Night brightness</string>
+    <string name="low_brightness_value">Low light brightness</string>
+    <string name="high_brightness_value">Medium light brightness</string>
+    <string name="sun_brightness_value">Sun light brightness</string>
+    <string name="reset_hidden_apps">Reset all</string>
+    <string name="footer_info">If Always on is enabled, brightness gets recalculated to follow hardware specifications, so don\'t consider above values as absolute ones.</string>
+    <string name="double_tap_title">Double tap</string>
+    <string name="doze_double_tap_title">Double tap to check phone</string>
+    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
     <!-- Ambient display battery percentage -->
-    <string name="ambient_battery_percent_title">电池电量</string>
-    <string name="ambient_battery_percent_summary">休眠时, 在底部显示电量百分比</string>
+    <string name="ambient_battery_percent_title">Battery level</string>
+    <string name="ambient_battery_percent_summary">Show battery percent on the bottom while dozing</string>
     <!-- Doze on charge -->
-    <string name="doze_on_charge_title">充电时始终开启</string>
-    <string name="doze_on_charge_summary">充电时总是显示 Doze 界面</string>
+    <string name="doze_on_charge_title">Always on when charging</string>
+    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
 </resources>
