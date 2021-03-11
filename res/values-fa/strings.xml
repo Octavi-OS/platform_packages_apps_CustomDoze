@@ -12,16 +12,16 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_title">Ambient Display</string>
-    <string name="doze_trigger_title">When to show</string>
-    <string name="doze_elements_title">What to show</string>
-    <string name="ambient_display_notifications">New notifications</string>
-    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
+    <string name="ambient_display_title">صفحه نیمه روشن</string>
+    <string name="doze_trigger_title">چه زمان نمایش داده شود</string>
+    <string name="doze_elements_title">چه چیزی را نمایش دهد</string>
+    <string name="ambient_display_notifications">اعلانات جدید</string>
+    <string name="ambient_display_summary">روشن شدن صفحه هنگام دریافت اعلانات</string>
     <!-- Tilt sensor -->
-    <string name="tilt_sensor_title">Tilt sensor</string>
-    <string name="pick_up_title">Lift to check phone</string>
-    <string name="pick_up_summary">Pulse notifications when device is picked up</string>
-    <string name="wake_gesture_title">Raise to wake</string>
+    <string name="tilt_sensor_title">حسگر بلند کردن گوشی</string>
+    <string name="pick_up_title">برای چک کردن گوشی،آن را بلند کنید و در دست بگیرید</string>
+    <string name="pick_up_summary">اعلان های تپشی هنگام برداشته شدن دستگاه</string>
+    <string name="wake_gesture_title">روشن کردن صفحه با برداشتن</string>
     <string name="wake_gesture_summary">به جای اعلان های تپشی گوشی خود را بردارید تا صفحه آن روشن شود</string>
     <string name="smart_wake_title">بلند کردن گوشی برای روشن شدن صفحه هوشمند</string>
     <string name="smart_wake_summary">اعلانات تپشی هنگام دریافت اعلان و روشن شدن صفحه هنگام برداشتن دستگاه</string>
