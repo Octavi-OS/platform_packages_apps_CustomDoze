@@ -23,7 +23,7 @@
     <string name="pick_up_summary">拿起裝置時閃爍呼吸燈</string>
     <string name="wake_gesture_title">拿起喚醒</string>
     <string name="wake_gesture_summary">拿起您的手機喚醒裝置取代通知喚醒</string>
-    <string name="smart_wake_title">智能拿起喚醒</string>
+    <string name="smart_wake_title">智慧拿起喚醒</string>
     <string name="smart_wake_summary">在設備輕微移動時顯示通知並喚醒設備</string>
     <string name="smart_wake_category_title">傾斜感應器 +</string>
     <!-- Proximity sensor -->
@@ -46,11 +46,11 @@
     <string name="footer_info">如果開啟“始終開啟”，亮度將根據硬體規格重新計算，所以不要將上面的值看作絕對值。</string>
     <string name="double_tap_title">輕觸兩下</string>
     <string name="doze_double_tap_title">輕觸兩下手機即可查看</string>
-    <string name="doze_double_tap_summary">鎖屏時雙擊查看顯示通知</string>
+    <string name="doze_double_tap_summary">雙擊查看 AOD 顯示通知</string>
     <!-- Ambient display battery percentage -->
     <string name="ambient_battery_percent_title">電池電量</string>
     <string name="ambient_battery_percent_summary">休眠時，在螢幕底部顯示電池電量</string>
     <!-- Doze on charge -->
     <string name="doze_on_charge_title">永遠開啟（充電時）</string>
-    <string name="doze_on_charge_summary">鎖屏充電時始終顯示</string>
+    <string name="doze_on_charge_summary">充電時一直處於 AOD</string>
 </resources>
