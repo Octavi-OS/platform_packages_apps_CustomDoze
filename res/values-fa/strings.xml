@@ -43,14 +43,14 @@
     <string name="high_brightness_value">Medium light brightness</string>
     <string name="sun_brightness_value">Sun light brightness</string>
     <string name="reset_hidden_apps">Reset all</string>
-    <string name="footer_info">If Always on is enabled, brightness gets recalculated to follow hardware specifications, so don\'t consider above values as absolute ones.</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="doze_double_tap_title">Double tap to check phone</string>
-    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+    <string name="footer_info">اگه صفحه همیشه روشن فعال باشد روشنایی صفحه بر اساس ترجیحات سیستم تنظیم میشود.پس مقادیر بالا همیشگی نیستند</string>
+    <string name="double_tap_title">ضربه دوتایی</string>
+    <string name="doze_double_tap_title">دوبار ضربه زدن برای چک کردن گوشی</string>
+    <string name="doze_double_tap_summary">اعلان های تپشی با دو ضربه زدن</string>
     <!-- Ambient display battery percentage -->
-    <string name="ambient_battery_percent_title">Battery level</string>
-    <string name="ambient_battery_percent_summary">Show battery percent on the bottom while dozing</string>
+    <string name="ambient_battery_percent_title">سطح باتری</string>
+    <string name="ambient_battery_percent_summary">هنگام صفحه نیمه روشن درصد باتری را در زیر نمایش بده</string>
     <!-- Doze on charge -->
-    <string name="doze_on_charge_title">Always on when charging</string>
-    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
+    <string name="doze_on_charge_title">فعال کردن صفحه همیشه روشن هنگام شارژ کردن گوشی</string>
+    <string name="doze_on_charge_summary">نمایش صفحه نیمه روشن هنگام شارژ شدن گوشی</string>
 </resources>
