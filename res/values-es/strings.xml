@@ -22,7 +22,7 @@
     <string name="pick_up_title">Levantar para revisar el dispositivo</string>
     <string name="pick_up_summary">Pulso de notificaciones al levantar el dispositivo</string>
     <string name="wake_gesture_title">Elevar para activar</string>
-    <string name="wake_gesture_summary">Pick up your phone to wake up the device instead of pulsing notifications</string>
+    <string name="wake_gesture_summary">Levantar el teléfono para activar el dispositivo en vez de pulsar las notificaciones</string>
     <string name="smart_wake_title">Elevación Inteligente para activar</string>
     <string name="smart_wake_summary">Mostrar pulso de notificaciones cuando se mueve el dispositivo y despertar cuando sea recogido</string>
     <string name="smart_wake_category_title">Tilt Sensor +</string>
@@ -34,23 +34,23 @@
     <string name="pocket_gesture_summary">Pulso de notificaciones al sacar del bolsillo</string>
     <string name="proximity_screen_wake_title">Wake Screen with Hand Wave or Pocket Gesture</string>
     <string name="proximity_screen_wake_summary">Use Hand Wave or Pocket Gesture to wake up the device instead of pulsing notifications</string>
-    <string name="aod_setting_title">Siempre encendido</string>
-    <string name="aod_setting_summary">Show time, notification icons and other info. Increased battery usage.</string>
+    <string name="aod_setting_title">Pantalla Ambiente</string>
+    <string name="aod_setting_summary">Mostrar clima, iconos de notificación y otra información. Aumenta el uso de batería.</string>
     <string name="doze_brightness_title">Brillo ambiente</string>
-    <string name="doze_brightness_summary">Configure Ambient brightness values</string>
+    <string name="doze_brightness_summary">Configurar valores del brillo ambiente</string>
     <string name="night_brightness_value">Brillo nocturno</string>
     <string name="low_brightness_value">Low light brightness</string>
     <string name="high_brightness_value">Medium light brightness</string>
     <string name="sun_brightness_value">Sun light brightness</string>
     <string name="reset_hidden_apps">Restablecer todo</string>
-    <string name="footer_info">If Always on is enabled, brightness gets recalculated to follow hardware specifications, so don\'t consider above values as absolute ones.</string>
+    <string name="footer_info">Si la Pantalla Ambiente está habilitada, el brillo se recalcula para seguir las especificaciones de hardware, por lo que no considere los valores anteriores como absolutos.</string>
     <string name="double_tap_title">Doble toque</string>
     <string name="doze_double_tap_title">Doble toque para revisar el teléfono</string>
     <string name="doze_double_tap_summary">Pulso de notificaciones con un doble toque</string>
     <!-- Ambient display battery percentage -->
     <string name="ambient_battery_percent_title">Nivel de batería</string>
-    <string name="ambient_battery_percent_summary">Show battery percent on the bottom while dozing</string>
+    <string name="ambient_battery_percent_summary">Mostrar porcentaje de batería en la parte inferior de la pantalla ambiente</string>
     <!-- Doze on charge -->
-    <string name="doze_on_charge_title">Always on when charging</string>
-    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
+    <string name="doze_on_charge_title">Pantalla Ambiente mientras se carga</string>
+    <string name="doze_on_charge_summary">Mostrar pantalla doze todo el tiempo al cargar</string>
 </resources>
