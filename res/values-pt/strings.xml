@@ -12,45 +12,45 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_title">Ambient Display</string>
-    <string name="doze_trigger_title">When to show</string>
-    <string name="doze_elements_title">What to show</string>
-    <string name="ambient_display_notifications">New notifications</string>
-    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
+    <string name="ambient_display_title">Visualização de ambiente</string>
+    <string name="doze_trigger_title">Quando mostrar</string>
+    <string name="doze_elements_title">O que mostrar</string>
+    <string name="ambient_display_notifications">Novas notificações</string>
+    <string name="ambient_display_summary">Ligar o ecrã quando receber notificações</string>
     <!-- Tilt sensor -->
-    <string name="tilt_sensor_title">Tilt sensor</string>
-    <string name="pick_up_title">Lift to check phone</string>
-    <string name="pick_up_summary">Pulse notifications when device is picked up</string>
-    <string name="wake_gesture_title">Raise to wake</string>
-    <string name="wake_gesture_summary">Pick up your phone to wake up the device instead of pulsing notifications</string>
-    <string name="smart_wake_title">Smart Raise to wake</string>
-    <string name="smart_wake_summary">Pulse notifications on slight motion of the device and wake when picked up</string>
-    <string name="smart_wake_category_title">Tilt Sensor +</string>
+    <string name="tilt_sensor_title">Sensor de inclinação</string>
+    <string name="pick_up_title">Levantar o smartphone para verificá-lo</string>
+    <string name="pick_up_summary">Mostrar notificações quando pegar no telemóvel</string>
+    <string name="wake_gesture_title">Levantar para ativar o ecrã</string>
+    <string name="wake_gesture_summary">Pegue no seu telefone para acordar o dispositivo em vez de pulsar as notificações</string>
+    <string name="smart_wake_title">Levantamento inteligente para acordar</string>
+    <string name="smart_wake_summary">Pulsar notificações com um ligeiro movimento do dispositivo e acordar quando pegar o dispositivo</string>
+    <string name="smart_wake_category_title">Sensor de inclinação +</string>
     <!-- Proximity sensor -->
-    <string name="proximity_sensor_title">Proximity sensor</string>
-    <string name="hand_wave_gesture_title">Hand wave</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
-    <string name="pocket_gesture_title">Pocket</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
-    <string name="proximity_screen_wake_title">Wake Screen with Hand Wave or Pocket Gesture</string>
-    <string name="proximity_screen_wake_summary">Use Hand Wave or Pocket Gesture to wake up the device instead of pulsing notifications</string>
-    <string name="aod_setting_title">Always on</string>
-    <string name="aod_setting_summary">Show time, notification icons and other info. Increased battery usage.</string>
-    <string name="doze_brightness_title">Ambient brightness</string>
-    <string name="doze_brightness_summary">Configure Ambient brightness values</string>
-    <string name="night_brightness_value">Night brightness</string>
-    <string name="low_brightness_value">Low light brightness</string>
-    <string name="high_brightness_value">Medium light brightness</string>
-    <string name="sun_brightness_value">Sun light brightness</string>
-    <string name="reset_hidden_apps">Reset all</string>
-    <string name="footer_info">If Always on is enabled, brightness gets recalculated to follow hardware specifications, so don\'t consider above values as absolute ones.</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="doze_double_tap_title">Double tap to check phone</string>
-    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+    <string name="proximity_sensor_title">Sensor de proximidade</string>
+    <string name="hand_wave_gesture_title">Passar a mão</string>
+    <string name="hand_wave_gesture_summary">Mostrar notificações ao passar a mão</string>
+    <string name="pocket_gesture_title">Bolso</string>
+    <string name="pocket_gesture_summary">Mostrar notificações ao retirar do bolso</string>
+    <string name="proximity_screen_wake_title">Ligar ecrã com abanar mão ou ao tirar do bolso</string>
+    <string name="proximity_screen_wake_summary">Usar gesto ou tirar do bolso para acordar o dispositivo em vez de pulsar as notificações</string>
+    <string name="aod_setting_title">Sempre ligado</string>
+    <string name="aod_setting_summary">Mostrar hora, ícones de notificação e outras informações. Maior uso de bateria.</string>
+    <string name="doze_brightness_title">Luminosidade ambiente</string>
+    <string name="doze_brightness_summary">Configurar valores da luminosidade ambiente</string>
+    <string name="night_brightness_value">Brilho do Modo noturno</string>
+    <string name="low_brightness_value">Brilho de luz baixa</string>
+    <string name="high_brightness_value">Brilho de luz média</string>
+    <string name="sun_brightness_value">Brilho de luz solar</string>
+    <string name="reset_hidden_apps">Repor tudo</string>
+    <string name="footer_info">Se sempre ativado, o brilho será recalculado para seguir especificações de hardware, então não considere valores acima como valores absolutos.</string>
+    <string name="double_tap_title">Duplo toque</string>
+    <string name="doze_double_tap_title">Toque duas vezes para verificar o telefone</string>
+    <string name="doze_double_tap_summary">Pulsar notificações com um toque duplo</string>
     <!-- Ambient display battery percentage -->
-    <string name="ambient_battery_percent_title">Battery level</string>
-    <string name="ambient_battery_percent_summary">Show battery percent on the bottom while dozing</string>
+    <string name="ambient_battery_percent_title">Nível da bateria</string>
+    <string name="ambient_battery_percent_summary">Mostrar percentagem da bateria na parte inferior enquanto estiver em espera</string>
     <!-- Doze on charge -->
-    <string name="doze_on_charge_title">Always on when charging</string>
-    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
+    <string name="doze_on_charge_title">Sempre ligado durante o carregamento</string>
+    <string name="doze_on_charge_summary">Ecrã sempre ligado enquanto carrega</string>
 </resources>
