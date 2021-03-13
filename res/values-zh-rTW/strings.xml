@@ -12,11 +12,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_title">Ambient Display</string>
-    <string name="doze_trigger_title">When to show</string>
-    <string name="doze_elements_title">What to show</string>
-    <string name="ambient_display_notifications">New notifications</string>
-    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
+    <string name="ambient_display_title">環境顯示</string>
+    <string name="doze_trigger_title">顯示時機</string>
+    <string name="doze_elements_title">要顯示的項目</string>
+    <string name="ambient_display_notifications">新通知</string>
+    <string name="ambient_display_summary">當您收到通知時喚醒螢幕</string>
     <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Tilt sensor</string>
     <string name="pick_up_title">Lift to check phone</string>
