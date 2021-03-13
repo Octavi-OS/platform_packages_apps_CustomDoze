@@ -12,9 +12,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_title">Ambient Display</string>
-    <string name="doze_trigger_title">When to show</string>
-    <string name="doze_elements_title">What to show</string>
+    <string name="ambient_display_title">Màn hình hiển thị xung quanh</string>
+    <string name="doze_trigger_title">Khi nào nên hiển thị</string>
+    <string name="doze_elements_title">Nội dung hiển thị</string>
     <string name="ambient_display_notifications">New notifications</string>
     <string name="ambient_display_summary">Wake screen when you receive notifications</string>
     <!-- Tilt sensor -->
@@ -43,14 +43,14 @@
     <string name="high_brightness_value">Medium light brightness</string>
     <string name="sun_brightness_value">Sun light brightness</string>
     <string name="reset_hidden_apps">Reset all</string>
-    <string name="footer_info">If Always on is enabled, brightness gets recalculated to follow hardware specifications, so don\'t consider above values as absolute ones.</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="doze_double_tap_title">Double tap to check phone</string>
-    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+    <string name="footer_info">Nếu Luôn bật được bật, độ sáng sẽ được tính toán lại để tuân theo các thông số kỹ thuật phần cứng, vì vậy đừng coi các giá trị trên là giá trị tuyệt đối.</string>
+    <string name="double_tap_title">Chạm 2 lần</string>
+    <string name="doze_double_tap_title">Chạm 2 lần để kiểm tra điện thoại</string>
+    <string name="doze_double_tap_summary">Hiển thị thông báo xung bằng cách chạm hai lần</string>
     <!-- Ambient display battery percentage -->
     <string name="ambient_battery_percent_title">Battery level</string>
-    <string name="ambient_battery_percent_summary">Show battery percent on the bottom while dozing</string>
+    <string name="ambient_battery_percent_summary">Hiển thị phần trăm pin ở phía dưới trong khi ngủ</string>
     <!-- Doze on charge -->
-    <string name="doze_on_charge_title">Always on when charging</string>
-    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
+    <string name="doze_on_charge_title">Luôn bật khi sạc</string>
+    <string name="doze_on_charge_summary">Hiển thị màn hình ngủ mọi lúc khi đang sạc</string>
 </resources>
