@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2015 The CyanogenMod Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ambient_display_title">Tampilan Ambien</string>
+    <string name="doze_trigger_title">Kapan harus ditampilkan</string>
+    <string name="doze_elements_title">Apa yang harus ditampilkan</string>
+    <string name="ambient_display_notifications">Notifikasi baru</string>
+    <string name="ambient_display_summary">Hidupkan layar saat Anda menerima notifikasi</string>
+    <!-- Tilt sensor -->
+    <string name="tilt_sensor_title">Sensor kemiringan</string>
+    <string name="pick_up_title">Angkat untuk memeriksa telepon</string>
+    <string name="pick_up_summary">Tampilkan notifikasi bila perangkat diambil</string>
+    <string name="wake_gesture_title">Angkat untuk Bangun</string>
+    <string name="wake_gesture_summary">Angkat telepon untuk membangunkan perangkat dibandingkan untuk menyalakan notifikasi</string>
+    <string name="smart_wake_title">Angkat Cerdas untuk bangun</string>
+    <string name="smart_wake_summary">Tampilkan notifikasi pada gerakan kecil perangkat dan bangun saat diangkat</string>
+    <string name="smart_wake_category_title">Sensor Kemiringan +</string>
+    <!-- Proximity sensor -->
+    <string name="proximity_sensor_title">Sensor jarak</string>
+    <string name="hand_wave_gesture_title">Lambaian tangan</string>
+    <string name="hand_wave_gesture_summary">Tampilkan notifikasi saat melambaikan tangan</string>
+    <string name="pocket_gesture_title">Saku</string>
+    <string name="pocket_gesture_summary">Tampilkan notifikasi saat keluar dari saku</string>
+    <string name="proximity_screen_wake_title">Bangunkan Layar dengan Gerakan Tangan atau Gerakan Saku</string>
+    <string name="proximity_screen_wake_summary">Gunakan Gerakan Tangan atau Gerakan Saku untuk membangunkan perangkat alih-alih mendorong notifikasi</string>
+    <string name="aod_setting_title">Selalu menyala</string>
+    <string name="aod_setting_summary">Tampilkan waktu, ikon notifikasi, dan info lainnya. Penggunaan baterai akan meningkat.</string>
+    <string name="doze_brightness_title">Kecerahan ambien</string>
+    <string name="doze_brightness_summary">Konfigurasikan nilai kecerahan ambien</string>
+    <string name="night_brightness_value">Kecerahan malam</string>
+    <string name="low_brightness_value">Kecerahan cahaya rendah</string>
+    <string name="high_brightness_value">Kecerahan cahaya sedang</string>
+    <string name="sun_brightness_value">Kecerahan cahaya terang</string>
+    <string name="reset_hidden_apps">Atur ulang semua</string>
+    <string name="footer_info">Jika Selalu Aktif diaktifkan, kecerahan dihitung ulang untuk mengikuti spesifikasi perangkat keras, jadi jangan anggap nilai di atas sebagai nilai absolut.</string>
+    <string name="double_tap_title">Ketuk dua kali</string>
+    <string name="doze_double_tap_title">Ketuk dua kali untuk memeriksa telepon</string>
+    <string name="doze_double_tap_summary">Tampilkan notifikasi dengan ketukan ganda</string>
+    <!-- Ambient display battery percentage -->
+    <string name="ambient_battery_percent_title">Tingkat Baterai</string>
+    <string name="ambient_battery_percent_summary">Tampilkan persen baterai di bagian bawah saat tertidur</string>
+    <!-- Doze on charge -->
+    <string name="doze_on_charge_title">Selalu menyala saat mengisi daya</string>
+    <string name="doze_on_charge_summary">Tampilkan layar tidur sepanjang waktu saat mengisi daya</string>
+</resources>
