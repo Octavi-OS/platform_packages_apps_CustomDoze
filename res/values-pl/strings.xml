@@ -12,7 +12,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_title">Ambient Display</string>
+    <string name="ambient_display_title">Ekran dostosowany do otoczenia</string>
     <string name="doze_trigger_title">Kiedy pokazać</string>
     <string name="doze_elements_title">Co pokazywać</string>
     <string name="ambient_display_notifications">Nowe powiadomienia</string>
@@ -41,7 +41,7 @@
     <string name="night_brightness_value">Night brightness</string>
     <string name="low_brightness_value">Low light brightness</string>
     <string name="high_brightness_value">Medium light brightness</string>
-    <string name="sun_brightness_value">Sun light brightness</string>
+    <string name="sun_brightness_value">Jasność podczas światła słonecznego</string>
     <string name="reset_hidden_apps">Zresetuj wszystko</string>
     <string name="footer_info">If Always on is enabled, brightness gets recalculated to follow hardware specifications, so don\'t consider above values as absolute ones.</string>
     <string name="double_tap_title">Double tap</string>
