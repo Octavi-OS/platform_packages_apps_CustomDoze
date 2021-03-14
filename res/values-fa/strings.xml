@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2015 The CyanogenMod Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ambient_display_title">صفحه نیمه روشن</string>
+    <string name="doze_trigger_title">چه زمان نمایش داده شود</string>
+    <string name="doze_elements_title">چه چیزی را نمایش دهد</string>
+    <string name="ambient_display_notifications">اعلانات جدید</string>
+    <string name="ambient_display_summary">روشن شدن صفحه هنگام دریافت اعلانات</string>
+    <!-- Tilt sensor -->
+    <string name="tilt_sensor_title">حسگر بلند کردن گوشی</string>
+    <string name="pick_up_title">برای چک کردن گوشی،آن را بلند کنید و در دست بگیرید</string>
+    <string name="pick_up_summary">اعلان های تپشی هنگام برداشته شدن دستگاه</string>
+    <string name="wake_gesture_title">روشن کردن صفحه با برداشتن</string>
+    <string name="wake_gesture_summary">به جای اعلان های تپشی گوشی خود را بردارید تا صفحه آن روشن شود</string>
+    <string name="smart_wake_title">بلند کردن گوشی برای روشن شدن صفحه هوشمند</string>
+    <string name="smart_wake_summary">اعلانات تپشی هنگام دریافت اعلان و روشن شدن صفحه هنگام برداشتن دستگاه</string>
+    <string name="smart_wake_category_title">حسگر بلند کردن گوشی +</string>
+    <!-- Proximity sensor -->
+    <string name="proximity_sensor_title">حسگر مجاورت</string>
+    <string name="hand_wave_gesture_title">حرکت دادن دست</string>
+    <string name="hand_wave_gesture_summary">اعلان‌های تپشی هنگام حرکت دست</string>
+    <string name="pocket_gesture_title">جیب</string>
+    <string name="pocket_gesture_summary">اعلان های تپشی هنگام خارج کردن از جیب</string>
+    <string name="proximity_screen_wake_title">روشن شدن صفحه با حرکت دست بر روی سنسور یا با خارج کردن از جیب</string>
+    <string name="proximity_screen_wake_summary">به جای استفاده از اعلانات تپشی از حالت حسگر دست یا حسگر خارج کردن گوشی از جیب برای روشن کردن صفحه استفاده کنید</string>
+    <string name="aod_setting_title">همیشه روشن</string>
+    <string name="aod_setting_summary">نمایش زمان و آیکون اعلان ها و اطلاعات دیگر،باعث زیاد شدن مصرف باتری میشود(برای صفحه های ال سی دی غیر فعال شود)</string>
+    <string name="doze_brightness_title">سطح روشنایی صفحه نیمه روشن</string>
+    <string name="doze_brightness_summary">تنظیم سطح نور صفحه نیمه روشن</string>
+    <string name="night_brightness_value">روشنایی حالت شب</string>
+    <string name="low_brightness_value">روشنایی کم</string>
+    <string name="high_brightness_value">روشنایی متوسط</string>
+    <string name="sun_brightness_value">روشنایی زیاد</string>
+    <string name="reset_hidden_apps">تنظیم مجدد همه</string>
+    <string name="footer_info">اگه صفحه همیشه روشن فعال باشد روشنایی صفحه بر اساس ترجیحات سیستم تنظیم میشود.پس مقادیر بالا همیشگی نیستند</string>
+    <string name="double_tap_title">ضربه دوتایی</string>
+    <string name="doze_double_tap_title">دوبار ضربه زدن برای چک کردن گوشی</string>
+    <string name="doze_double_tap_summary">اعلان های تپشی با دو ضربه زدن</string>
+    <!-- Ambient display battery percentage -->
+    <string name="ambient_battery_percent_title">سطح باتری</string>
+    <string name="ambient_battery_percent_summary">هنگام صفحه نیمه روشن درصد باتری را در زیر نمایش بده</string>
+    <!-- Doze on charge -->
+    <string name="doze_on_charge_title">فعال کردن صفحه همیشه روشن هنگام شارژ کردن گوشی</string>
+    <string name="doze_on_charge_summary">نمایش صفحه نیمه روشن هنگام شارژ شدن گوشی</string>
+</resources>

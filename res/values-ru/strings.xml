@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2015 The CyanogenMod Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ambient_display_title">Ambient Display</string>
+    <string name="doze_trigger_title">Когда показывать</string>
+    <string name="doze_elements_title">Что показывать</string>
+    <string name="ambient_display_notifications">Новые уведомления</string>
+    <string name="ambient_display_summary">Включать экран, когда вы получаете уведомления</string>
+    <!-- Tilt sensor -->
+    <string name="tilt_sensor_title">Датчик наклона</string>
+    <string name="pick_up_title">Поднять для проверки телефона</string>
+    <string name="pick_up_summary">Пульсировать уведомления при поднятии устройства</string>
+    <string name="wake_gesture_title">Пробуждение</string>
+    <string name="wake_gesture_summary">Возьмите телефон для пробуждения устройства вместо пульсирующих уведомлений</string>
+    <string name="smart_wake_title">Умное Подключение для пробуждения</string>
+    <string name="smart_wake_summary">Пульсировать уведомления при небольшом движении устройства и пробуждать при поднятии</string>
+    <string name="smart_wake_category_title">Датчик наклона +</string>
+    <!-- Proximity sensor -->
+    <string name="proximity_sensor_title">Датчик приближения</string>
+    <string name="hand_wave_gesture_title">Взмах рукой</string>
+    <string name="hand_wave_gesture_summary">Показывать уведомления при взмахе рукой</string>
+    <string name="pocket_gesture_title">Карман</string>
+    <string name="pocket_gesture_summary">Пульсирующие уведомления при извлечении из кармана</string>
+    <string name="proximity_screen_wake_title">Пробуждать экран при взмахе рукой или извлечения из кармана</string>
+    <string name="proximity_screen_wake_summary">Используйте взмах рукой или извлечение из кармана для пробуждения устройства вместо пульсирующих уведомлений</string>
+    <string name="aod_setting_title">Всегда включен</string>
+    <string name="aod_setting_summary">Показывать время, иконки уведомлений и другую информацию. Увеличено использование заряда батареи.</string>
+    <string name="doze_brightness_title">Яркость индикатора уведомлений</string>
+    <string name="doze_brightness_summary">Настроить значения яркости Aod</string>
+    <string name="night_brightness_value">Низкая яркость света</string>
+    <string name="low_brightness_value">Низкая яркость света</string>
+    <string name="high_brightness_value">Средняя яркость света</string>
+    <string name="sun_brightness_value">Яркость солнечного света</string>
+    <string name="reset_hidden_apps">Сбросить все</string>
+    <string name="footer_info">Если включено, яркость пересчитывается в соответствии с техническими спецификациями, поэтому не рассматривайте выше значения как абсолютные.</string>
+    <string name="double_tap_title">Двойное нажатие</string>
+    <string name="doze_double_tap_title">Просмотр времени и уведомлений двойным нажатием</string>
+    <string name="doze_double_tap_summary">Пульсирующие уведомления двойным нажатием</string>
+    <!-- Ambient display battery percentage -->
+    <string name="ambient_battery_percent_title">Уровень батареи</string>
+    <string name="ambient_battery_percent_summary">Показывать процент заряда батареи в нижней части во время сна</string>
+    <!-- Doze on charge -->
+    <string name="doze_on_charge_title">Всегда включать экран при зарядке</string>
+    <string name="doze_on_charge_summary">Показывать Doze все время во время зарядки</string>
+</resources>
