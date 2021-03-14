@@ -35,22 +35,22 @@
     <string name="proximity_screen_wake_title">Bangunkan Layar dengan Gerakan Tangan atau Gerakan Saku</string>
     <string name="proximity_screen_wake_summary">Gunakan Gerakan Tangan atau Gerakan Saku untuk membangunkan perangkat alih-alih mendorong notifikasi</string>
     <string name="aod_setting_title">Selalu menyala</string>
-    <string name="aod_setting_summary">Show time, notification icons and other info. Increased battery usage.</string>
-    <string name="doze_brightness_title">Ambient brightness</string>
-    <string name="doze_brightness_summary">Configure Ambient brightness values</string>
-    <string name="night_brightness_value">Night brightness</string>
-    <string name="low_brightness_value">Low light brightness</string>
-    <string name="high_brightness_value">Medium light brightness</string>
-    <string name="sun_brightness_value">Sun light brightness</string>
-    <string name="reset_hidden_apps">Reset all</string>
-    <string name="footer_info">If Always on is enabled, brightness gets recalculated to follow hardware specifications, so don\'t consider above values as absolute ones.</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="doze_double_tap_title">Double tap to check phone</string>
-    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+    <string name="aod_setting_summary">Tampilkan waktu, ikon notifikasi, dan info lainnya. Penggunaan baterai akan meningkat.</string>
+    <string name="doze_brightness_title">Kecerahan ambien</string>
+    <string name="doze_brightness_summary">Konfigurasikan nilai kecerahan ambien</string>
+    <string name="night_brightness_value">Kecerahan malam</string>
+    <string name="low_brightness_value">Kecerahan cahaya rendah</string>
+    <string name="high_brightness_value">Kecerahan cahaya sedang</string>
+    <string name="sun_brightness_value">Kecerahan cahaya terang</string>
+    <string name="reset_hidden_apps">Atur ulang semua</string>
+    <string name="footer_info">Jika Selalu Aktif diaktifkan, kecerahan dihitung ulang untuk mengikuti spesifikasi perangkat keras, jadi jangan anggap nilai di atas sebagai nilai absolut.</string>
+    <string name="double_tap_title">Ketuk dua kali</string>
+    <string name="doze_double_tap_title">Ketuk dua kali untuk memeriksa telepon</string>
+    <string name="doze_double_tap_summary">Tampilkan notifikasi dengan ketukan ganda</string>
     <!-- Ambient display battery percentage -->
-    <string name="ambient_battery_percent_title">Battery level</string>
-    <string name="ambient_battery_percent_summary">Show battery percent on the bottom while dozing</string>
+    <string name="ambient_battery_percent_title">Tingkat Baterai</string>
+    <string name="ambient_battery_percent_summary">Tampilkan persen baterai di bagian bawah saat tertidur</string>
     <!-- Doze on charge -->
-    <string name="doze_on_charge_title">Always on when charging</string>
-    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
+    <string name="doze_on_charge_title">Selalu menyala saat mengisi daya</string>
+    <string name="doze_on_charge_summary">Tampilkan layar tidur sepanjang waktu saat mengisi daya</string>
 </resources>
