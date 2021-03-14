@@ -12,29 +12,29 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_title">Ambient Display</string>
-    <string name="doze_trigger_title">When to show</string>
-    <string name="doze_elements_title">What to show</string>
-    <string name="ambient_display_notifications">New notifications</string>
-    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
+    <string name="ambient_display_title">Tampilan Ambien</string>
+    <string name="doze_trigger_title">Kapan harus ditampilkan</string>
+    <string name="doze_elements_title">Apa yang harus ditampilkan</string>
+    <string name="ambient_display_notifications">Notifikasi baru</string>
+    <string name="ambient_display_summary">Hidupkan layar saat Anda menerima notifikasi</string>
     <!-- Tilt sensor -->
-    <string name="tilt_sensor_title">Tilt sensor</string>
-    <string name="pick_up_title">Lift to check phone</string>
-    <string name="pick_up_summary">Pulse notifications when device is picked up</string>
-    <string name="wake_gesture_title">Raise to wake</string>
-    <string name="wake_gesture_summary">Pick up your phone to wake up the device instead of pulsing notifications</string>
-    <string name="smart_wake_title">Smart Raise to wake</string>
-    <string name="smart_wake_summary">Pulse notifications on slight motion of the device and wake when picked up</string>
-    <string name="smart_wake_category_title">Tilt Sensor +</string>
+    <string name="tilt_sensor_title">Sensor kemiringan</string>
+    <string name="pick_up_title">Angkat untuk memeriksa telepon</string>
+    <string name="pick_up_summary">Tampilkan notifikasi bila perangkat diambil</string>
+    <string name="wake_gesture_title">Angkat untuk Bangun</string>
+    <string name="wake_gesture_summary">Angkat telepon untuk membangunkan perangkat dibandingkan untuk menyalakan notifikasi</string>
+    <string name="smart_wake_title">Angkat Cerdas untuk bangun</string>
+    <string name="smart_wake_summary">Tampilkan notifikasi pada gerakan kecil perangkat dan bangun saat diangkat</string>
+    <string name="smart_wake_category_title">Sensor Kemiringan +</string>
     <!-- Proximity sensor -->
-    <string name="proximity_sensor_title">Proximity sensor</string>
-    <string name="hand_wave_gesture_title">Hand wave</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
-    <string name="pocket_gesture_title">Pocket</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
-    <string name="proximity_screen_wake_title">Wake Screen with Hand Wave or Pocket Gesture</string>
-    <string name="proximity_screen_wake_summary">Use Hand Wave or Pocket Gesture to wake up the device instead of pulsing notifications</string>
-    <string name="aod_setting_title">Always on</string>
+    <string name="proximity_sensor_title">Sensor jarak</string>
+    <string name="hand_wave_gesture_title">Lambaian tangan</string>
+    <string name="hand_wave_gesture_summary">Tampilkan notifikasi saat melambaikan tangan</string>
+    <string name="pocket_gesture_title">Saku</string>
+    <string name="pocket_gesture_summary">Tampilkan notifikasi saat keluar dari saku</string>
+    <string name="proximity_screen_wake_title">Bangunkan Layar dengan Gerakan Tangan atau Gerakan Saku</string>
+    <string name="proximity_screen_wake_summary">Gunakan Gerakan Tangan atau Gerakan Saku untuk membangunkan perangkat alih-alih mendorong notifikasi</string>
+    <string name="aod_setting_title">Selalu menyala</string>
     <string name="aod_setting_summary">Show time, notification icons and other info. Increased battery usage.</string>
     <string name="doze_brightness_title">Ambient brightness</string>
     <string name="doze_brightness_summary">Configure Ambient brightness values</string>
