@@ -12,45 +12,45 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="ambient_display_title">Ambient Display</string>
-    <string name="doze_trigger_title">When to show</string>
-    <string name="doze_elements_title">What to show</string>
-    <string name="ambient_display_notifications">New notifications</string>
-    <string name="ambient_display_summary">Wake screen when you receive notifications</string>
+    <string name="ambient_display_title">الشاشة السوداء الدائمة</string>
+    <string name="doze_trigger_title">متى يتم الإظهار</string>
+    <string name="doze_elements_title">ما الذي يظهر</string>
+    <string name="ambient_display_notifications">إشعارات جديدة</string>
+    <string name="ambient_display_summary">إيقاظ الشاشة عندما تستلم إشعارات</string>
     <!-- Tilt sensor -->
-    <string name="tilt_sensor_title">Tilt sensor</string>
-    <string name="pick_up_title">Lift to check phone</string>
-    <string name="pick_up_summary">Pulse notifications when device is picked up</string>
-    <string name="wake_gesture_title">Raise to wake</string>
-    <string name="wake_gesture_summary">Pick up your phone to wake up the device instead of pulsing notifications</string>
-    <string name="smart_wake_title">Smart Raise to wake</string>
-    <string name="smart_wake_summary">Pulse notifications on slight motion of the device and wake when picked up</string>
-    <string name="smart_wake_category_title">Tilt Sensor +</string>
+    <string name="tilt_sensor_title">حساس الميل</string>
+    <string name="pick_up_title">الرفع للتحقق من الهاتف</string>
+    <string name="pick_up_summary">نبض الإشعارات عندما يُرفع الهاتف</string>
+    <string name="wake_gesture_title">الرفع للإيقاظ</string>
+    <string name="wake_gesture_summary">احمل الهاتف للإيقاظ الجهاز عوضاً عن الإشعارات النبضية</string>
+    <string name="smart_wake_title">الرفع للإيقاظ الذكي</string>
+    <string name="smart_wake_summary">نبض الإشعارات عند الحركة الخفيفة للجهاز و إيقاظه عند رفعه</string>
+    <string name="smart_wake_category_title">حساس الميل +</string>
     <!-- Proximity sensor -->
-    <string name="proximity_sensor_title">Proximity sensor</string>
-    <string name="hand_wave_gesture_title">Hand wave</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
-    <string name="pocket_gesture_title">Pocket</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
-    <string name="proximity_screen_wake_title">Wake Screen with Hand Wave or Pocket Gesture</string>
-    <string name="proximity_screen_wake_summary">Use Hand Wave or Pocket Gesture to wake up the device instead of pulsing notifications</string>
-    <string name="aod_setting_title">Always on</string>
-    <string name="aod_setting_summary">Show time, notification icons and other info. Increased battery usage.</string>
-    <string name="doze_brightness_title">Ambient brightness</string>
-    <string name="doze_brightness_summary">Configure Ambient brightness values</string>
-    <string name="night_brightness_value">Night brightness</string>
-    <string name="low_brightness_value">Low light brightness</string>
-    <string name="high_brightness_value">Medium light brightness</string>
-    <string name="sun_brightness_value">Sun light brightness</string>
-    <string name="reset_hidden_apps">Reset all</string>
-    <string name="footer_info">If Always on is enabled, brightness gets recalculated to follow hardware specifications, so don\'t consider above values as absolute ones.</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="doze_double_tap_title">Double tap to check phone</string>
-    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+    <string name="proximity_sensor_title">حساس القرب</string>
+    <string name="hand_wave_gesture_title">تلويح اليد</string>
+    <string name="hand_wave_gesture_summary">نبض الإشعارات عند موجة اليد</string>
+    <string name="pocket_gesture_title">الجيب</string>
+    <string name="pocket_gesture_summary">نبض الإشعارات عند الخروج من الجيب</string>
+    <string name="proximity_screen_wake_title">إيقاظ الشاشة بموجة اليد او إيماء الجيب</string>
+    <string name="proximity_screen_wake_summary">استخدام \"موجة اليد\" أو \"إيماء الجيب\" لإيقاظ الجهاز عوضاً عن التنبيهات النبضية</string>
+    <string name="aod_setting_title">الشاشة الدائمة</string>
+    <string name="aod_setting_summary">إظهار الوقت، رموز الإشعارات ومعلومات أخرى. (يؤدي هذا إلى زيادة استهلاك البطارية).</string>
+    <string name="doze_brightness_title">إضاءة الشاشة السوداء الدائمة</string>
+    <string name="doze_brightness_summary">تهيئة معدل إضاءة الشاشة السوداء الدائمة</string>
+    <string name="night_brightness_value">السطوع الليلي</string>
+    <string name="low_brightness_value">السطوع في الإضاءة الخافتة</string>
+    <string name="high_brightness_value">السطوع في الإضاءة المتوسطة</string>
+    <string name="sun_brightness_value">السطوع في ضوء الشمس</string>
+    <string name="reset_hidden_apps">إعادة تعيين الكل</string>
+    <string name="footer_info">إذا تم تفعيل الشاشة الدائمة، سيتم إعادة تعيين السطوع للتوافق مع مواصفات الجهاز، لذلك لا تعتبر القيم العلوية كالقيم الثابتة.</string>
+    <string name="double_tap_title">نقر مزدوج</string>
+    <string name="doze_double_tap_title">النقر المزدوج للإطلاع على الهاتف</string>
+    <string name="doze_double_tap_summary">نبض الإشعارات بالنقر المزدوج</string>
     <!-- Ambient display battery percentage -->
-    <string name="ambient_battery_percent_title">Battery level</string>
-    <string name="ambient_battery_percent_summary">Show battery percent on the bottom while dozing</string>
+    <string name="ambient_battery_percent_title">مستوى البطارية</string>
+    <string name="ambient_battery_percent_summary">إظهار نسبة البطارية في الأسفل أثناء شاشة الغفو</string>
     <!-- Doze on charge -->
-    <string name="doze_on_charge_title">Always on when charging</string>
-    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
+    <string name="doze_on_charge_title">الشاشة الدائمة أثناء الشحن</string>
+    <string name="doze_on_charge_summary">إظهار شاشة الغفو طوال الوقت أثناء الشحن</string>
 </resources>
