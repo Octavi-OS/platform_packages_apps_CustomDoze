@@ -22,22 +22,13 @@
     <string name="pick_up_title">Podnieś, by sprawdzić telefon</string>
     <string name="pick_up_summary">Pulsujące powiadomienia, kiedy urządzenie zostanie podniesione</string>
     <string name="wake_gesture_title">Podnieś aby wybudzić</string>
-    <string name="wake_gesture_summary">Pick up your phone to wake up the device instead of pulsing notifications</string>
     <string name="smart_wake_title">Inteligentne Podnieś aby Wybudzić</string>
-    <string name="smart_wake_summary">Pulse notifications on slight motion of the device and wake when picked up</string>
     <string name="smart_wake_category_title">Czujnik pochylenia +</string>
     <!-- Proximity sensor -->
-    <string name="proximity_sensor_title">Proximity sensor</string>
-    <string name="hand_wave_gesture_title">Hand wave</string>
-    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
-    <string name="pocket_gesture_title">Pocket</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
     <string name="proximity_screen_wake_title">Wybudź ekran z gestem machnięcia ręką lub wyciągnięcia z kieszeni</string>
     <string name="proximity_screen_wake_summary">Użyj gestu machnięcia ręką lub wyciągnięcia telefonu z kieszeni aby obudzić urządzenie, zamiast używać pulsujących powiadomień</string>
     <string name="aod_setting_title">Always on</string>
     <string name="aod_setting_summary">Pokaż godzinę, ikony powiadomień i inne informacje. Zwiększa użycie baterii.</string>
-    <string name="doze_brightness_title">Ambient brightness</string>
-    <string name="doze_brightness_summary">Configure Ambient brightness values</string>
     <string name="night_brightness_value">Jasność w nocy</string>
     <string name="low_brightness_value">Jasność w słabym świetle</string>
     <string name="high_brightness_value">Jasność w dobrym świetle</string>
@@ -52,5 +43,4 @@
     <string name="ambient_battery_percent_summary">Pokaż procent baterii na dole ekranu</string>
     <!-- Doze on charge -->
     <string name="doze_on_charge_title">Always On podczas ładowania</string>
-    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
 </resources>
