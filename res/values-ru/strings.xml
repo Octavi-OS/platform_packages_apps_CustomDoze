@@ -20,7 +20,7 @@
     <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Датчик наклона</string>
     <string name="pick_up_title">Поднять для проверки телефона</string>
-    <string name="pick_up_summary">Пульсировать уведомления при поднятии устройства</string>
+    <string name="pick_up_summary">Пульсирующие уведомления при поднятии устройства</string>
     <string name="wake_gesture_title">Пробуждение</string>
     <string name="wake_gesture_summary">Возьмите телефон для пробуждения устройства вместо пульсирующих уведомлений</string>
     <string name="smart_wake_title">Умное Подключение для пробуждения</string>
